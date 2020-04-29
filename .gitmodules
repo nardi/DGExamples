@@ -1,0 +1,3 @@
+[submodule "dev/DimensionGrouping"]
+	path = dev/DimensionGrouping
+	url = https://github.com/nardi/DimensionGrouping.jl
